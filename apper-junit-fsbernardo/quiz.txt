@@ -1,1 +1,10 @@
-quiz
+1.) unit testing refers to a component level testing
+2.) integration testing refers to the testing of the integration of all the components
+3.) system testing refers to the testing of system compliance based on specifications
+4.) acceptance testing refers to the actual testing of the end users/consumers/stakeholders
+5.) false
+6.) junit jupiter
+7.) assertEquals - checks if the expected values match the resulting/actual values
+8.) assertArrayEquals - checks if two arrays are equal
+9.) assertNull - checks if an object is null
+10.) assertTrue - checks if a condition is true
